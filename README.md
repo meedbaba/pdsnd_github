@@ -15,8 +15,9 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-https://www.pythonlikeyoumeanit.com/
-https://realpython.com/python
+This project refernces [pythonlikeyoumeanit](https://www.pythonlikeyoumeanit.com/)
+This project refernces [realpython](https://realpython.com/python)
+
 
 ### Update raw_data_display docstring
 """Displays five rows at a time, of individual trip data based on user input."""
