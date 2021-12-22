@@ -123,8 +123,8 @@ def time_stats(df):
         print('Errata : there is no such column [day of week] in the dataframe')
     # display the most common start hour
     df['hour'] = df['Start Time'].dt.hour
-    popular_hour = df['hour'].mode()[0]
-    print(f'The most freqent hour is: {popular_hour}')
+    df['hour'].mode()[0]
+    print(f'The most freqent hour is: {df['hour'].mode()[0]}')
     
 
     print("\nThis took %s seconds." % (time.time() - start_time))
