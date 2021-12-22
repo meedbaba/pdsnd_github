@@ -23,3 +23,6 @@ https://realpython.com/python
 
 ### Update trip_duration_stat docstring
 """shows statistics of the total and average trip duration."""
+
+### Update user_stat docstring
+"""Shows bikeshare users statistics."""
