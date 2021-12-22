@@ -214,7 +214,7 @@ def user_stats(df):
     print('done calculating' '\n')
     
 def display_raw_data(df):
-    """Displays rows rows of individual trip data based on user input."""
+    """Displays five rows at a time, of individual trip data based on user input."""
     print('\ndisplaying individual trip data...\n')
     start_time = time.time()
     
