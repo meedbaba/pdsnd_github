@@ -7,7 +7,7 @@
 Explore US bikeshare data
 
 ### Description
-Gives insight to bikeshare rental data
+Gives meaningfull insight to US bikeshare rental data 
 
 ### Files used
 chicago.csv
