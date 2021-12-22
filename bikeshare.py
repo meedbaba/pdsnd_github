@@ -129,7 +129,7 @@ def time_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40, '\n')
-    print('calculating next statistics')
+    
 
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
@@ -152,7 +152,7 @@ def station_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40, '\n')
-    print('calculating next statistics')
+    
 
 
 def trip_duration_stats(df):
@@ -170,7 +170,7 @@ def trip_duration_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40, '\n')
-    print('calculating next statistics')
+    
 
 def user_stats(df):
     """Displays statistics on bikeshare users."""
